@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method not !!!");
+	  System.out.println("Hello from Main Method not your are !!!");
   }
 	
 }
